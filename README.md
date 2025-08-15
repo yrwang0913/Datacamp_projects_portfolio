@@ -1,5 +1,6 @@
 # Datacamp Projects Portfolio
-Applying data science skills to solve real-world problems, from [Datacamp](https://app.datacamp.com/)
+Applying data science skills to solve real-world problems, from [Datacamp](https://app.datacamp.com/).
+
 The projects in this repo are designed by Datacamp, but include some of my own extended analysis/codes/approaches, instead of the official answers provided.
 
 ## Transportation Fuel Prices Prediction - Time Series Analysis
